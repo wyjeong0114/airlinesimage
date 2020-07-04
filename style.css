@@ -230,3 +230,26 @@ body {
     letter-spacing: normal;
     text-align: center;
 }
+
+.try-again-btn {
+    border-radius: 40px;
+    border: solid 1.5px #35465d;
+    background-color: #35465d;
+}
+
+.try-again-text {
+    display: block;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #ffffff;
+    padding: 4px 15px;
+}
+
+.file-upload {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: solid 1.5px #f6f7fa;
+    background-color: #f6f7fa;
+    padding: 13% 7%;
+}
